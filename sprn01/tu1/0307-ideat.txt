@@ -1,0 +1,9 @@
+
+we now have SW companies with: 
+
+oracle-github.com
+tibco-github.com
+autodesk-github.com 
+
+//ie they "borrow" space from github and put their software now there ! 
+
