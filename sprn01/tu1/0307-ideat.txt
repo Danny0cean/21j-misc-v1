@@ -7,3 +7,12 @@ autodesk-github.com
 
 //ie they "borrow" space from github and put their software now there ! 
 
+---------------------
+
+tokens is a schemata // to support authing between two parties - its a protocol - so its a cli-server arch. 
+
+auth0 is the co behind it.
+jwt is one lib (available in all RTs) made by auth0 -- implemening the ln#12 statement. 
+
+thats it. 
+
