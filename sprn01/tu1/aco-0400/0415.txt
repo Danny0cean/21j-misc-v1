@@ -1,0 +1,6 @@
+
+01 
+ maybe we need to reproduce, first w a good token. then send the same req w a expired token. see what http code is AND what auth code is. THEN_ check how to tci-Wf code
+  is supposed to respond to that. 
+  
+  
