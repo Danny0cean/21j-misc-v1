@@ -1,0 +1,31 @@
+
+POST 
+https://internal.consumer.gbxint.autodesk.com/oauth2/token
+
+
+OAuthHost : 
+  	internal.api.gbxdev.autodesk.com
+    
+OAuthPort : 
+ 443 
+
+
+uri is: 
+/oauth2/token
+
+OAuthPostdata is: // just a name value pair list with some http-proto-spec seperator. 
+ 	grant_type=client_credentials 
+  
+  
+OAuthUserName : 
+  	b=7hrj7fbdq8nac0j27kdgctfj8i,a=4cuem1a9rdu2t0lon75ubgd460
+    
+OAuthPassword : 
+ *** 
+ 
+headers :: 
+ OAuthContentType :  
+  
+ ApiKey : 
+  
+  
